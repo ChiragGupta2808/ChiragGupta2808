@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chirag Gupta.
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning React JS.
+- 💞️ I’m looking for an internship.
+- 📫 Contact me via e-mail.
